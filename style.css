@@ -63,7 +63,7 @@ nav li a:hover {
 	font-family: "Afacad Flux", serif;
 	font-optical-sizing: auto;
 	font-weight: 500;
-	font-size: 25px;
+	font-size: 27px;
 	font-style: normal;
 	background-color: #F1EFEF;
 }
@@ -74,8 +74,7 @@ nav li a:hover {
 	background-color: #F1EFEF;
 }
 .two-column div {
-	margin-right: 10px;
-	margin-left: 10px;
+	margin: 0 auto;
 	background-color: #F1EFEF;
 }
 #column {
@@ -84,7 +83,17 @@ nav li a:hover {
 	font-family: "Afacad Flux", serif;
 	font-optical-sizing: auto;
 	font-weight: 500;
-	font-size: 25px;
+	font-size: 27px;
+	font-style: normal;
+	background-color: #F1EFEF;
+}
+#column2 {
+	width: 1100px;
+	margin: 0 auto;
+	font-family: "Afacad Flux", serif;
+	font-optical-sizing: auto;
+	font-weight: 500;
+	font-size: 30px;
 	font-style: normal;
 	background-color: #F1EFEF;
 }
@@ -98,10 +107,16 @@ nav li a:hover {
 	justify-content: space-between;
 }
 .column div {
-	margin-right: 10px;
-	margin-left: 10px;
+	margin: 0 auto;
 	background-color: #F1EFEF;
 }
+.h1 {
+	text-align: center;
+	color: black;
+	font-size: 40px;  
+	font-family: "Afacad Flux", serif;
+	font-weight: bold;
+ }
 /*Footer*/
 footer {
 	background-color: #191717;
@@ -129,41 +144,46 @@ footer p {
 /*Pictures*/
 .me-picture {
 	width: 500px;
-	backgroung-size: contain;
+	background-size: contain;
 }
 .me2-picture {
 	width: 500px;
-	backgroung-size: contain;
+	background-size: contain;
 }
 .groove {
 	width: 500px;
-	backgroung-size: contain;
+	background-size: contain;
 }
 .band {
 	width: 500px;
-	backgroung-size: contain;
+	background-size: contain;
 }
 .borsh {
 	width: 500px;
-	backgroung-size: contain;
+	background-size: contain;
 }
 .uni {
-	width: 500px;
-	backgroung-size: contain;
+	width: 430px;
+	height: 500px;
+	background-size: contain;
 }
 .guitar {
 	width: 400px;
-	backgroung-size: contain;
+	height: 500px;
+	background-size: contain;
 }
 .eleguitar {
 	width: 400px;
-	backgroung-size: contain;
+	height: 500px;
+	background-size: contain;
 }
 .eleguitar2 {
 	width: 400px;
-	backgroung-size: contain;
+	height: 500px;
+	background-size: contain;
 }
 .bass {
 	width: 400px;
-	backgroung-size: contain;
+	height: 500px;
+	background-size: contain;
 }
